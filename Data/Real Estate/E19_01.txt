@@ -1,0 +1,32 @@
+Number of Enterprises (unit) 99544 103262 105434 102852
+Domestic Invested 95691 99150 101374 99054
+State-owned Enterprises 671 1133 1209 1387
+Collective-owned Enterprises 230 227 208 185
+Invextment from Hong Kong, Macao and Taiwan 2664 2759 2703 2550
+Foreign Invested 1189 1353 1357 1248
+Average Number of Employed Persons (10000 persons) 293.74 290.13 280.16 244.67
+Domestic Invested 278.41 274.65 265.76 232.80
+State-otned Enterprises 2.51 3.65 3.54 3.74
+Collective-owned Enterprises 0.50 0.50 0.41 0.45
+Investment from Hong Kong, Macao and Taiwan 10.37 10.19 9.24 7.82
+Foreign Invested 4.95 5.29 5.15 4.05
+Area of Land Purchased in the Year (10000 sq.m) 25822.3 25536.3 21589.9 10041.7
+Investment completed in the Year (100 million yuan) 127746.8 136438.2 142247.7 128074.6
+Residential Buildings 93572.4 100488.2 106855.3 96735
+Actual Funds in Place in the Year (100 million yuan) 178608.6 193114.9 201132.2 148357.3
+Domestic Loans 25228 26675.9 23295 17359
+Foreign Investment 175.7 192.0 107.4 78.0
+Self-raised Fund 58157.8 63376.6 65427.7 52525
+Floor Space of Buildings (10000 sq.m)
+Floor Space Under Construction 893820.9 926759.2 975386.5 904091.8
+Floor Space Completed 95941.5 91218.2 101411.9 85857
+Floor Space Started in the Year 227153.6 224433.1 198895.0 120107.4
+Residential Buildings 167463.4 164328.5 146378.6 87748
+Floor Space of Commercial Buildings Sold (10000 sq.m) 164531.4 168560.4 171414.6 129766.4
+Residential Buildings 144040.2 148315.9 149602.3 109564
+Average Selling Price of Commercial Buildings (yuan/sq.m) 9469 10030 10323 9991
+Residential Buildings 9454 10159 10590 10375
+Paid-in Capital (100 million yuan) 105248.8 116652.0 127272.2 134049.7
+Ratio of Liabilities to Assets (%) 80.4 80.7 80.3 79.1
+Revenue from Principal Business (100 million yuan) 110239.8 118582.1 134342.2 123052.0
+Income from Land Transfer 874.1 747.8 769.3 709.1
