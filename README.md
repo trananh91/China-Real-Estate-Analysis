@@ -1,6 +1,6 @@
 # [INT3137_20] How China's Property Bubble burst
 
-This is the repository for the Major Assignment of Visual Data Analytics course **INT3137_20**
+This is the repository for the Major Assignment of **Visual Data Analytics course [INT3137_20]**
 
 Group 9 members:
 1. Trần Đức Anh - 21020606
@@ -17,10 +17,10 @@ understanding of the formation process of the Property Bubble, as well as conseq
 The data we have used for research and analytics were collected from the official website of National Bureau of Statistics of China: [National Bureau of Statistics of China](https://www.stats.gov.cn/english/)\
 We agree to the owner's [Terms of Services](https://www.stats.gov.cn/english/nbs/200701/t20070104_59236.html). \
 We follow all the related laws and regulations. \
-Our use of data is only for research purpose only.\
+Our use of data is only for research purpose only.
 
-**Note**
-The data we used are contained in the "Data" folder.\
+**Note:**\
+The data we used are contained in the "Data" folder.
 - The Data\Preprocessed folder contains the .txt files after the data have been preprocessed.
 - The Data\Raw folder contains the images which are downloaded from the website of National Bureau of Statistics of China.
 Each folder above is separated into three subfolders corresponding the content of the data: Employment, Population and Real_estate.
